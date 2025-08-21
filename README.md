@@ -3,7 +3,7 @@
 
 A simple Streamlit web app for predicting Iris species using a trained machine learning model.
 
----
+
 
 ## 📦 Project Structure
 
@@ -82,7 +82,6 @@ Include:
 
 chamudhi Ubhayarathna
 
-**Lakma Gunathilake**  
 Intelligent Systems
 Horizon Campus
 
