@@ -1,23 +1,4 @@
-# 🌸 Iris Streamlit App
 
-A simple Streamlit web app for predicting Iris species using a trained machine learning model.
-
----
-
-## 📦 Project Structure
-iris-streamlit-app/ ├── app.py ├── requirements.txt ├── README.md ├── README.pdf ├── data/ │   └── iris.csv ├── notebooks/ │   └── iris_model_training.ipynb └── best_model.pkl
-
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-
-Thanks for sharing that, Lakma! Your README.md is a good start — it has the project name and a short description. Let’s expand it into a clean, professional version that your lecturer will appreciate and that’s ready to convert to PDF. 📄✨
-
-📝 Updated README.md Content
-You can copy and paste this into your file:
 # 🌸 Iris Streamlit App
 
 A simple Streamlit web app for predicting Iris species using a trained machine learning model.
@@ -46,7 +27,7 @@ iris-streamlit-app/
 
 1. Clone the repository:
 
-git clone https://github.com/LakmaGunathilake/iris-streamlit-app.git
+git clone https://github.com/Chamu-Good-Girl/iris_streamlit.git
 
 2. Navigate to the project folder:
 
@@ -82,7 +63,7 @@ To deploy your own version:
 2. Sign in with GitHub
 3. Click **New app**
 4. Fill in:
-- Repository: `LakmaGunathilake/iris-streamlit-app`
+- Repository: https://github.com/Chamu-Good-Girl/iris_streamlit.git
 - Branch: `main`
 - Main file: `app.py`
 5. Click **Deploy**
@@ -98,6 +79,8 @@ Include:
 ---
 
 ## 👩‍🎓 Author
+
+chamudhi Ubhayarathna
 
 **Lakma Gunathilake**  
 Intelligent Systems
