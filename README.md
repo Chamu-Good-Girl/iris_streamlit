@@ -70,13 +70,7 @@ To deploy your own version:
 
 ---
 
-## 📸 Screenshots
 
-Include:
-- Deployment form before clicking “Deploy”
-- Live app running in browser
-
----
 
 ## 👩‍🎓 Author
 
